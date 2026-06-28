@@ -24,7 +24,6 @@ Instead of blocking ads (which violates YouTube’s Terms of Service), this app:
 - 🔒 **Privacy‑first** – no user data is collected or shared.
 - 🎯 **Ad cover** – black overlay on all ad containers (including Shorts ads).
 - 🌫️ **Thumbnail blur** – blurs video thumbnails (customizable level).
-- 📱 **Picture‑in‑Picture (PiP)** – continue watching videos while using other apps.
 - ⚡ **Two‑Activity architecture** – main feed and video player are separated, so the feed never refreshes when returning from a video.
 - 🚀 **Fast & lightweight** – optimized WebView with caching and hardware acceleration.
 - 🛡️ **No root required** – works on any Android device (API 26+).
